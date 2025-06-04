@@ -1,18 +1,6 @@
-insatll anaconda
-create environment variables using scripts
-open terminal (cmd)
-conda create --name project python=3.9
-pip install tensorflow==2.15.0
-pip install streamlit==1.30.0
-pip install numpy==1.23.5
-pip install opencv-python==4.8.0.76
-
-this is not for uday system 
-if you try new follow above steps
-after installing all packeges
-
-
-
-cd Brain-Hemorrhage-Detection
-cd "Streamlit Webapp"
-streamlit run app.py
+streamlit
+tensorflow
+opencv-python
+numpy
+Pillow
+matplotlib
